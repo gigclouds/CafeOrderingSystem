@@ -1,4 +1,4 @@
-# Cafe Ordering System ☕🍽️
+# Assignment 1 Cafe Ordering System ☕🍽️
 
 A Java-based Cafe Ordering System built with object-oriented programming. The system handles dine-in and takeaway orders, manages menu items and stock, processes payments, and generates receipts.
 
